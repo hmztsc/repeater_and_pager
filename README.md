@@ -1,5 +1,5 @@
-# CRUD
-CRUD for Beginner - Native PHP 
+# Repeater & Pager
+Making Basic Repeater & Pager - Native PHP 
 
 ## Installation
 
