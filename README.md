@@ -1,3 +1,6 @@
+# CRUD
+CRUD for Beginner - Native PHP 
+
 ## Installation
 
 1. To install the database, first enter your database server information in the connection.php file in the main directory.
